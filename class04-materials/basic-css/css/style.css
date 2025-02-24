@@ -13,18 +13,21 @@ h2{
 }
 
 /* Make this section width of 50%, height of 200px, background of gray, border of black, and the paragraph text white */
-p{
+section{
     width: 50%;
     height: 200px;
     background: grey;
     border: 3px solid black;
+}
+
+p{
     color: white;
 }
 
 /* Make this footer have a black background, with light green border, and this text 20px white plus a font-family of Roboto */
 footer{
     background-color: black;
-    border: solid green;
+    border: solid lightgreen;
 }
 
 h3{
