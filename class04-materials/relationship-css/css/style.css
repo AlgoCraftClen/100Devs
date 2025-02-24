@@ -10,4 +10,6 @@ article > h2 {
     color: red;
 }
 
-
+section article h2 {
+    color: yellow;
+}
