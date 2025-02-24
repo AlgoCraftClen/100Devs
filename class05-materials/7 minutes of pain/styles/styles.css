@@ -1,5 +1,5 @@
 *{
-    box-sizing: border box;
+    box-sizing: border-box;
 }
 
 header,footer{
@@ -10,8 +10,8 @@ header,footer{
 
 section{
     height: 300px;
-    width: 33.3333%;
-    border: 3px solid black;
+    width: 33.33%;
+    border: 1px solid black;
     float: left;
 }
 
